@@ -6,6 +6,8 @@ Usage (Local):
   Run this script with: duckdb dw_marts.duckdb -c ".read build_dw_marts.sql"
 
 Usage (MotherDuck):
+  Open duckdb connected to moderduck with "duckdb md:"
+  Run "CREATE DATABASE db_name;", then quit the terminal
   Run this script with: duckdb "md:dw_marts" -c ".read build_dw_marts.sql"
   Note: Ensure MOTHERDUCK_TOKEN is already exported in your environment
   Uncomment the ATTACH statement below to connect to MotherDuck
