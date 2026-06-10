@@ -44,7 +44,7 @@ Raw job posting data arrives as flat CSV files in Google Cloud Storage—not str
 ## 📂 Repository Structure
 
 ```text
-2_WH_Mart_Build/
+DH_Mart_Build/
 ├── 01_create_tables_dw.sql        # Star schema DDL
 ├── 02_load_schema_dw.sql          # GCS data extraction & loading
 ├── 03_create_flat_mart.sql        # Denormalized flat mart
