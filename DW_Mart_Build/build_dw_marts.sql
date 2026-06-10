@@ -37,7 +37,7 @@ Note: Ensure MOTHERDUCK_TOKEN is already exported in your environment
 .read 06_update_priority_mart.sql
 
 -- Step 7: Mart - Create company prospecting mart
-.read 07_create_company_mart.sql
+-- .read 07_create_company_mart.sql
 
 -- Final verification
 SELECT '=== Pipeline Build Complete ===' AS status;
