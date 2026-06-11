@@ -4,13 +4,13 @@ Hands-on projects to reinforce core data engineering concepts from the SQL for D
 
 # Projects
 
-## [1_EDA/](./EDA/) - Exploratory Data Analysis
+## [EDA/](./EDA/) - Exploratory Data Analysis
 ![EDA Project Overview](1_1_Project1_EDA.png)
 SQL-driven analysis of data engineer job market trends using advanced querying techniques.
 
 **Skills**: Complex joins, aggregations, analytical functions, data quality validation
 
-### [2_WH_Mart_Build/](./WH_Mart_Build/) - Data Pipeline - Data Warehouse & Mart
+### [WH_Mart_Build/](./WH_Mart_Build/) - Data Pipeline - Data Warehouse & Mart
 ![Data Pipeline Architecture](1_2_Project2_Data_Pipeline.png)
 End-to-end ETL pipeline transforming raw CSV files into a star schema data warehouse and analytical data marts.
 
